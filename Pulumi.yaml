@@ -1,0 +1,3 @@
+name: oma-pulumi
+runtime: nodejs
+description: Pulumi repo for Oma Chrome extension infrastructure
